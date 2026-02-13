@@ -1,6 +1,3 @@
-# homelab-github
-Humble Homelab Beginnings 
-
 # Homelab Infrastructure Project
 
 A self-hosted infrastructure setup for learning modern DevOps practices, containerization, network security, and remote access technologies.
